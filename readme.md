@@ -24,3 +24,7 @@ Documentation for set up (https://reactnative.dev/docs/0.70/environment-setup?gu
 4. Type `npm install` in the terminal and press Enter.
 5. To start the project, type `npm run android` in the terminal and press Enter.
 6. During the process, you may need to install the application from the development build process, click install and open the app, done.
+
+|                       Homescreen                       |                      Bookmark                      |
+| :----------------------------------------------------: | :------------------------------------------------: |
+| ![Homescreen](https://i.ibb.co/WnxFdtD/Homescreen.jpg) | ![Bookmark](https://i.ibb.co/dfT6KnN/Bookmark.jpg) |
